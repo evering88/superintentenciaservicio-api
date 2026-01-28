@@ -180,3 +180,4 @@ test/
 
 # IDE files
 *.code-workspace
+.vscode/
