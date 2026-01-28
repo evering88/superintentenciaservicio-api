@@ -26,8 +26,8 @@
 	"d1_databases": [
 		{
 			"binding": "DB",
-			"database_name": "ovb_territorios",
-			"database_id": "599fa879-2e1e-4fa3-94bb-e8bfe27c5e41"
+			"database_name": "DATABASE_NAME",
+			"database_id": "DATABASE_ID"
 		}
 	],
 	/**
@@ -37,8 +37,8 @@
 	// "vars": { "MY_VARIABLE": "production_value" },
 	"vars": {
 		"ALLOWED_ORIGINS": [
-			"https://sserviciobosch.luksoft.workers.dev",
-			"http://127.0.0.1:8787",
+			"ORIGIN_1_URL",
+			"http://127.0.0.1:8787", // Localhost for testing
 		]
 	},
 	/**

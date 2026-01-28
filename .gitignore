@@ -165,3 +165,18 @@ dist
 .env*
 !.env.example
 .wrangler/
+wrangler.jsonc
+
+# drizzle
+
+drizzle/
+
+# CLAUDE
+CLAUDE.md
+
+# Testing tools
+vitest.config.js
+test/
+
+# IDE files
+*.code-workspace
